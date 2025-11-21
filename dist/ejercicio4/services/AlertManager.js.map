@@ -1,0 +1,1 @@
+{"version":3,"file":"AlertManager.js","sourceRoot":"","sources":["../../../src/ejercicio4/services/AlertManager.ts"],"names":[],"mappings":";;;AAEA,MAAa,YAAY;IAEb,WAAW,CAAuB;IAE1C,YACI,WAAiC;QAEjC,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;IACnC,CAAC;IAED,aAAa,CAAE,OAAe;QAC1B,IAAI,CAAC,WAAW,CAAC,MAAM,CAAC,OAAO,CAAC,CAAC;IACrC,CAAC;CACJ;AAbD,oCAaC"}
