@@ -9,7 +9,6 @@ Este repositorio contiene los ejercicios desarrollados como parte del plan de ap
 
 ### Ejercicio 2 – POO (User, Admin, Client)
 - Herencia
-- Polimorfismo
 - Interfaces
 
 ### Ejercicio 3 – Sistema de Login
