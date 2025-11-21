@@ -1,1 +1,0 @@
-{"version":3,"file":"ErrorUsuarioNoEncontrado.js","sourceRoot":"","sources":["../../../src/ejercicio3/errors/ErrorUsuarioNoEncontrado.ts"],"names":[],"mappings":";;;AACA,MAAa,wBAAyB,SAAQ,KAAK;IAE/C,YACI,OAAe;QAEf,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,0BAA0B,CAAC;IAC3C,CAAC;CACJ;AARD,4DAQC"}
